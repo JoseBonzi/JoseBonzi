@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseBonzi&color=3BCF1D&style=flat-square) 
 
-Hola, mi nombre es Jose, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por mostrar mis proyectos y ayudarme a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
+Hola, mi nombre es Jose, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por compartir mis proyectos y que me ayuden a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
 
 ---
 
