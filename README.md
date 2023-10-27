@@ -6,14 +6,14 @@ Hola, mi nombre es Jose, soy desarrollador web junior de Córdoba Capital, Argen
 
 ### 🧑‍💻 What I do 
     * 🎓 **Learning** 
-        * [CodeaRock] - ReactJS right from the start |Ongoing|
-        * [UTN FRC] - University Technician in Programming |Ongoing Second Year|
-        * [Elearning Total] - Diploma in Full Stack Web Development |Finished|
+        * [CodeaRock] - ReactJS desde cero |En Curso|
+        * [UTN FRC] - Tecnicatura Univeritaria en Programación |En Curso segundo año|
+        * [Elearning Total] - Diplomatura en Desarrollo Web FullStack |Terminado|
 
 ---
 
 ### 💻 Tech Stack
-These are my tech stack that I use best for programming.
+Esta son mis aptitudes que mejor manejo para programar.
     * **Backend** - C#, .Net, PHP
     * **Frontend** - HTML5/CSS3, ReactJS, Boostrap
     * **Datastores** - MySQL, SQL Server, MongoDB
