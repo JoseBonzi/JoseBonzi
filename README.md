@@ -1,14 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=devlloni&color=7C3138&style=flat-square) 
 
-Hello, my name is Jose, I am a junior web developer from Córdoba Capital, Argentina. Excited to show my projects and help me correct my mistakes. I am constantly growing because there are always new technologies to learn.
+Hola, mi nombre es Jose, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por mostrar mis proyectos y ayudarme a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
 
 ---
 
 ### 🧑‍💻 What I do 
     * 🎓 **Learning** 
-        * [CodeaRock](https://codearock.com/) - ReactJS right from the start |Ongoing|
-        * [UTN FRC](https://www.frc.utn.edu.ar/) - University Technician in Programming |Ongoing Second Year|
-        * [Elearning Total](https://site.elearning-total.com/) - Diploma in Full Stack Web Development |Finished|
+        * [CodeaRock] - ReactJS right from the start |Ongoing|
+        * [UTN FRC] - University Technician in Programming |Ongoing Second Year|
+        * [Elearning Total] - Diploma in Full Stack Web Development |Finished|
 
 ---
 
