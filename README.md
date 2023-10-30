@@ -1,38 +1,40 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseBonzi&color=3BCF1D&style=flat-square) 
 
-Hola, mi nombre es Jose, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por compartir mis proyectos y que me ayuden a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
+Hola, mi nombre es *Jose*, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por compartir mis proyectos y que me ayuden a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
+
+
 
 ---
 
-### 🧑‍💻 What I do 
-    * 🎓 **Learning** 
+### 👨‍💻 Mi carrera como programador
+   * 🎓 **Aprendisaje** 
         * [CodeaRock] - ReactJS desde cero |En Curso|
-        * [UTN FRC] - Tecnicatura Univeritaria en Programación |En Curso segundo año|
-        * [Elearning Total] - Diplomatura en Desarrollo Web FullStack |Terminado|
+        * [UTN FRC] - Tecnicatura Univeritaria en Programación |En Curso, segundo año|
+        * [Elearning Total] - Diplomatura en Desarrollo Web FullStack |Terminado|   
+
 
 ---
 
-### 💻 Tech Stack
+### 💻 Aptitudes
 Esta son mis aptitudes que mejor manejo para programar.
-    * **Backend** - C#, .Net, PHP
-    * **Frontend** - HTML5/CSS3, ReactJS, Boostrap
-    * **Datastores** - MySQL, SQL Server, MongoDB
-    * **Tools** - GitHub, Visual Studio, VS Code
+
+   * **Backend** - C#, .Net, PHP
+   * **Frontend** - HTML5/CSS3, ReactJS, Boostrap
+   * **Datastores** - MySQL, SQL Server 
+   * **Tools** - Github, VS Code
 
 ---
 
+### 🧾 GitHub Estadisticas
+Estas son mis estadisticas en GitHub.
 
-<!--
-**JoseBonzi/JoseBonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseBonzi&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
+		</td>
+		<td align="center" style="padding=0;width=50%;">
+			<img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=JoseBonzi&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
+		</td>
+	</tr>
+</table>
