@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseBonzi&color=3BCF1D&style=flat-square) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-ignacio-bonzi-032927244/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josebonzi1999@gmail.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/pqrmf466xj6vtg47g4er03mbl)
 
 Hola, mi nombre es *Jose*, soy desarrollador web junior de Córdoba Capital, Argentina. Emocionado por compartir mis proyectos y que me ayuden a corregir mis errores. Estoy en constante crecimiento porque siempre hay nuevas tecnologías que aprender.
 
